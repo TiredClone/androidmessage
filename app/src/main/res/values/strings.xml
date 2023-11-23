@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AndroidMessage</string>
+    <string name="email">email</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="new_to_here">New to here?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="username">Username</string>
 </resources>
