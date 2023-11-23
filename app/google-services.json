@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881383716037",
+    "project_id": "androidmessage-875e2",
+    "storage_bucket": "androidmessage-875e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881383716037:android:daac480430eab7ad916cac",
+        "android_client_info": {
+          "package_name": "com.neolife.androidmessage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCuqDBvzmQkWwTnXH1vKMFV-taIsCy9S4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
